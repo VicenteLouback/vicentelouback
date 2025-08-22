@@ -32,11 +32,11 @@
 <h2 align="left">Portfólio:</h2>
 
 ###
-
+<br>
 <p align="left"></p>
 
 ###
-
+<br>
 <h3 align="left">Linquagens de Programação</h3>
 
 ###
@@ -56,7 +56,7 @@
 </div>
 
 ###
-
+<br>
 <h3 align="left">Todas as ferramentas</h3>
 
 ###

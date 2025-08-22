@@ -6,11 +6,13 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Chris! A passionate Data Science student from Brazil.
+  👋 Olá, sou Vicente Louback 
 
-  - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
-
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+  - Faço faculdade de Ciência da Computação estou no (6° semestre).
+  - Faço estagio no Tribunal de Justiça no setor de Desenvolvimento de Sistemas e Aplicações.
+  - As tecnologias que uso (Angular, C#, SQL, .NET).
+  - Quero me tornar me tornar Engenheiro de Software.
+  
 </p>
 
 <!-- Dropdown -->

@@ -4,7 +4,13 @@
 
 <br clear="both">
 
-<h3 align="left">👋 Olá, sou Vicente Louback<br><br>- Faço Faculdade de Ciência da Computação estou no (6° semestre).<br>- Faço estágio no Tribunal de Justiça no setor de Desenvolvimento de Sistemas e Aplicações.<br>- As tecnologias que uso (Angular, C#, SQL, .NET).<br>- Quero me tornar, me tornar Engenheiro de Software.<br>- Estou estudando alguns topicos de Arquitetura de Software: SOLID, Arquitetura em Camadas, Design Patterns e Clean Code.</h3>
+<h3 align="left">👋 Olá, sou Vicente Louback<br><br>
+  - Faço Faculdade de Ciência da Computação estou no (6° semestre).
+  <br>- Faço estágio no Tribunal de Justiça no setor de Desenvolvimento de Sistemas e Aplicações.
+  <br>- As tecnologias que uso (Angular, C#, SQL, .NET).
+  <br>- Quero me tornar, me tornar Engenheiro de Software.
+  <br>- Estou estudando alguns topicos de Arquitetura de Software: SOLID, Arquitetura em Camadas, Design Patterns e Clean Code.
+</h3>
 
 ###
 

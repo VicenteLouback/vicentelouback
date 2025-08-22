@@ -34,11 +34,11 @@
 ###
 
 <p align="left"></p>
-<br>
+
 ###
 
 <h3 align="left">Linquagens de Programação</h3>
-<br>
+
 ###
 
 <div align="left">
@@ -56,7 +56,7 @@
 </div>
 
 ###
-<br>
+
 <h3 align="left">Todas as ferramentas</h3>
 
 ###

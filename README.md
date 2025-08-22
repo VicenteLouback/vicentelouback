@@ -29,13 +29,6 @@
 
 
 
-<h2 align="left">Portfólio:</h2>
-
-
-
-<p align="left"></p>
-
-
 
 <h3 align="left">Linquagens de Programação</h3>
 

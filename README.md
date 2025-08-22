@@ -11,7 +11,7 @@
   <br>- Quero me tornar, me tornar Engenheiro de Software.
   <br>- Estou estudando alguns topicos de Arquitetura de Software: SOLID, Arquitetura em Camadas, Design Patterns e Clean Code.
 </h3>
-
+<br>
 ###
 
 <div align="left">

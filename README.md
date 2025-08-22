@@ -3,7 +3,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
-<br>
+<br clear="both">
     <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 <!-- Presentation -->
 <p>

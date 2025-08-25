@@ -16,7 +16,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/vicente-louback-23a326268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg](https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-6cd0-61f7-88a6-2a8c13d9edd3/raw?se=2025-08-25T20%3A29%3A00Z&sp=r&sv=2024-08-04&sr=b&scid=5eddba7a-b066-59f1-983e-76da7c9e0fdd&skoid=864daabb-d06a-46b3-a747-d35075313a83&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-25T11%3A32%3A46Z&ske=2025-08-26T11%3A32%3A46Z&sks=b&skv=2024-08-04&sig=qL7yr8lIIUVio8IdfE5JHeyv4W4Awo0kcddpPPpxDxI%3D)" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 

@@ -18,7 +18,7 @@
 
 <br>
 
-<img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+<img align="center" src="[https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7](https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-6cd0-61f7-88a6-2a8c13d9edd3/raw?se=2025-08-25T20%3A29%3A00Z&sp=r&sv=2024-08-04&sr=b&scid=5eddba7a-b066-59f1-983e-76da7c9e0fdd&skoid=864daabb-d06a-46b3-a747-d35075313a83&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-25T11%3A32%3A46Z&ske=2025-08-26T11%3A32%3A46Z&sks=b&skv=2024-08-04&sig=qL7yr8lIIUVio8IdfE5JHeyv4W4Awo0kcddpPPpxDxI%3D)" alt="Imagem">
 
 
 <br>

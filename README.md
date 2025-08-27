@@ -1,11 +1,11 @@
 <h1>Hello, world!</h1>
 <br>
 <div>
-<h4>- Faço Faculdade de Ciência da Computação estou no (6° semestre).</h4>
-<h4>- Faço estágio no Tribunal de Justiça no setor de Desenvolvimento de Sistemas e Aplicações.</h4> 
-<h4>- As tecnologias que uso (Angular, C#, SQL, .NET). </h4>
-<h4>- Quero me tornar, me tornar Engenheiro de Software.</h4> 
-<h4>- Estou estudando alguns tópicos de Arquitetura de Software: SOLID, Arquitetura em Camadas, Design Patterns e Clean Code.</h4>
+<p>- Faço Faculdade de Ciência da Computação estou no (6° semestre).</p>
+<p>- Faço estágio no Tribunal de Justiça no setor de Desenvolvimento de Sistemas e Aplicações.</p> 
+<p>- As tecnologias que uso (Angular, C#, SQL, .NET). </p>
+<p>- Quero me tornar, me tornar Engenheiro de Software.</p> 
+<p>- Estou estudando alguns tópicos de Arquitetura de Software: SOLID, Arquitetura em Camadas, Design Patterns e Clean Code.</p>
 </div>
 <br>
 <h3 align="left">Linquagens de Programação</h3>

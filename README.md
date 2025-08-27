@@ -2,7 +2,7 @@
 
 <br>
 
-<p4>- Faço Faculdade de Ciência da Computação estou no (6° semestre).</p4>
+<p>- Faço Faculdade de Ciência da Computação estou no (6° semestre).</p>
 <p>- Faço estágio no Tribunal de Justiça no setor de Desenvolvimento de Sistemas e Aplicações.</p>
 <p>- As tecnologias que uso (Angular, C#, SQL, .NET).</p>
 <p>- Quero me tornar, me tornar Engenheiro de Software.</p>

@@ -4,7 +4,7 @@
 🎓 Faço **Faculdade de Ciência da Computação** (6º semestre)  
 💼 Estagiário no **Tribunal de Justiça**, na área de Desenvolvimento de Sistemas e Aplicações  
 💻 Tecnologias: **Angular**, **C#**, **SQL**, **.NET**  
-🧠 Interesses: **Engenharia de Software** e **Arquitetura de Software**  
+🧠 Interesses: **Engenharia de Software**
 📚 Estudando: **SOLID**, **Arquitetura em Camadas**, **Design Patterns**, **Clean Code**
 
 ---

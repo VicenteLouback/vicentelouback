@@ -45,10 +45,23 @@
 
 <b>Minhas estatísticas do GitHub</b>
 
-<a href="http://www.github.com/VicenteLouback"><img src="https://github-readme-stats.vercel.app/api?username=VicenteLouback&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de VicenteLouback" /></a>
+<table>
+  <tr>
+    <td>
+      <a href="http://www.github.com/VicenteLouback">
+        <img src="https://github-readme-stats.vercel.app/api?username=VicenteLouback&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de VicenteLouback" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/VicenteLouback">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicenteLouback&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true" alt="Linguagens mais usadas" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ### 📁 Repositórios em Destaque
 
-- [🔗 Projeto Front-end - Lista de Tarefas](https://github.com/VicenteLouback/lista-de-tarefas-front-end.git): Aplicação desenvolvida em Angular.
-- [🔗 Projeto Back-end - Lista de Tarefas](https://github.com/VicenteLouback/nome-do-repositorio-back): API construída em C#/.NET com SQList.
+- [🔗 Projeto Front-end - Lista de Tarefas](https://github.com/VicenteLouback/lista-de-tarefas-front-end.git): Projeto em desenvolvimento.
+- [🔗 Projeto Back-end - Lista de Tarefas](https://github.com/VicenteLouback/nome-do-repositorio-back): Em breve.

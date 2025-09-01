@@ -50,5 +50,5 @@
 
 ### 📁 Repositórios em Destaque
 
-- [🔗 Projeto Front-end - Lista de Tarefas](https://github.com/VicenteLouback/nome-do-repositorio-front): Aplicação desenvolvida em Angular.
+- [🔗 Projeto Front-end - Lista de Tarefas](https://github.com/VicenteLouback/lista-de-tarefas-front-end.git): Aplicação desenvolvida em Angular.
 - [🔗 Projeto Back-end - Lista de Tarefas](https://github.com/VicenteLouback/nome-do-repositorio-back): API construída em C#/.NET com SQList.

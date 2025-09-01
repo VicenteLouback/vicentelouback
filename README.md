@@ -46,3 +46,9 @@
 <b>Minhas estatísticas do GitHub</b>
 
 <a href="http://www.github.com/VicenteLouback"><img src="https://github-readme-stats.vercel.app/api?username=VicenteLouback&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de VicenteLouback" /></a>
+
+
+### 📁 Repositórios em Destaque
+
+- [🔗 Projeto Front-end - Lista de Tarefas](https://github.com/VicenteLouback/nome-do-repositorio-front): Aplicação desenvolvida em Angular.
+- [🔗 Projeto Back-end - Lista de Tarefas](https://github.com/VicenteLouback/nome-do-repositorio-back): API construída em C#/.NET com SQList.

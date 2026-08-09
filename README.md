@@ -85,7 +85,7 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
     <td width="50%" valign="top">
       <h3><a href="#">Tribunal de Justiça de Mato Grosso (TJMT)</a></h3>
       <b>Desenvolvedor de Software</b>
-      <img src="https://img.shields.io/badge/Nov%202024%20--%20Presente-238636?style=flat-square" />
+     
       <br /><br />
       Desenvolvimento e manutenção de sistemas internos utilizando C#, .NET, Angular e SQL Server. Atuação em melhorias, novas funcionalidades e suporte técnico.
       <br /><br />

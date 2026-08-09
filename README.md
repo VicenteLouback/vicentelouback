@@ -43,7 +43,7 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>📁 Sistema de Gestão de Chamados</h3>
+      <h3>Sistema de Gestão de Chamados</h3>
       Sistema interno para registro, acompanhamento e gestão de chamados técnicos.
       <br /><br />
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square" />
@@ -52,7 +52,7 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
       <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square" />
     </td>
     <td width="33%" valign="top">
-      <h3>🌐 Portfólio Pessoal</h3>
+      <h3>Portfólio Pessoal</h3>
       Meu portfólio online com projetos, experiências e formas de contato.
       <br /><br />
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square" />
@@ -60,7 +60,7 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square" />
     </td>
     <td width="33%" valign="top">
-      <h3>✅ Lista de Tarefas</h3>
+      <h3>Lista de Tarefas</h3>
       Aplicação simples de lista de tarefas com armazenamento local.
       <br /><br />
       <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square" />

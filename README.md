@@ -16,7 +16,7 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 **Linguagens & Frameworks**
 
@@ -38,7 +38,7 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 <table>
   <tr>
@@ -72,7 +72,7 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
 
 ---
 
-## 💼 Experiência
+## Experiência
 
 <table>
   <tr>
@@ -101,7 +101,7 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
 
 ---
 
-## 📬 Vamos nos conectar!
+## Meios de contato!
 
 Estou sempre aberto a novas oportunidades, projetos e colaborações.
 

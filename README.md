@@ -43,7 +43,7 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>📁 Sistema de Gestão de Chamados <sub>🔒 Privado</sub></h3>
+      <h3>📁 Sistema de Gestão de Chamados</h3>
       Sistema interno para registro, acompanhamento e gestão de chamados técnicos.
       <br /><br />
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square" />

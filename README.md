@@ -13,32 +13,33 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
   <img src="https://img.shields.io/badge/Ciência%20da%20Computação-2d333b?style=for-the-badge&logo=googleclassroom&logoColor=white" />
   <img src="https://img.shields.io/badge/📍%20Cuiabá%20--%20MT-2d333b?style=for-the-badge" />
 </p>
-<br>
-## Tecnologias & Ferramentas
+
+---
+
+##Tecnologias & Ferramentas
 
 **Linguagens & Frameworks**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css&theme=dark" />
 </p>
-<br>
 
-<br>
 **Banco de Dados**
 
 <p align="left">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
-<br>
 
 **Ferramentas & Outros**
-<br>
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,github,git,docker,figma&theme=dark" />
 </p>
 
-<br>
+---
+
 ## Projetos em Destaque
+
 <table>
   <tr>
     <td width="33%" valign="top">
@@ -69,7 +70,8 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
   </tr>
 </table>
 
-<br>
+---
+
 ## Experiência
 
 <table>
@@ -96,8 +98,10 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
     </td>
   </tr>
 </table>
-<br>
-## Meios de contato!
+
+---
+
+## Meio de comunicação!
 
 Estou sempre aberto a novas oportunidades, projetos e colaborações.
 
@@ -108,10 +112,10 @@ Estou sempre aberto a novas oportunidades, projetos e colaborações.
   <a href="https://github.com/VicenteLouback" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:vicentlouback@gmail.com" target="_blank">
+  <a href="mailto:vicentlouback@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/5565999331413" target="_blank">
+  <a href="https://wa.me/556599331413" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>

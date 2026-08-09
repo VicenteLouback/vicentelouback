@@ -1,7 +1,6 @@
 <div align="center">
 
 # 👋 Olá, eu sou o Vicente Louback
-
 <p align="left">
 Desenvolvedor apaixonado por tecnologia e por criar soluções que fazem a diferença.**
 Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos como freelancer.
@@ -81,19 +80,32 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
 
 ## 💼 Experiência
 
-**🏛️ [Tribunal de Justiça de Mato Grosso (TJMT)](#)**
-Desenvolvedor de Software `Nov 2024 - Presente`
-Desenvolvimento e manutenção de sistemas internos utilizando C#, .NET, Angular e SQL Server. Atuação em melhorias, novas funcionalidades e suporte técnico.
-- Desenvolvimento full-stack com .NET e Angular
-- Modelagem e consultas em SQL Server
-- Boas práticas, código limpo e versionamento com Git
-
-**💻 Freelancer**
-Desenvolvedor Web `2023 - Presente`
-Desenvolvimento de sites institucionais, landing pages e sistemas web personalizados para pequenos e médios negócios.
-- Sites responsivos com HTML, CSS e JavaScript
-- Integrações e formulários com PHP
-- Foco em performance, SEO e experiência do usuário
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ <a href="#">Tribunal de Justiça de Mato Grosso (TJMT)</a></h3>
+      <b>Desenvolvedor de Software</b>
+      <img src="https://img.shields.io/badge/Nov%202024%20--%20Presente-238636?style=flat-square" />
+      <br /><br />
+      Desenvolvimento e manutenção de sistemas internos utilizando C#, .NET, Angular e SQL Server. Atuação em melhorias, novas funcionalidades e suporte técnico.
+      <br /><br />
+      • Desenvolvimento full-stack com .NET e Angular<br />
+      • Modelagem e consultas em SQL Server<br />
+      • Boas práticas, código limpo e versionamento com Git
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 Freelancer</h3>
+      <b>Desenvolvedor Web</b>
+      <img src="https://img.shields.io/badge/2023%20--%20Presente-238636?style=flat-square" />
+      <br /><br />
+      Desenvolvimento de sites institucionais, landing pages e sistemas web personalizados para pequenos e médios negócios.
+      <br /><br />
+      • Sites responsivos com HTML, CSS e JavaScript<br />
+      • Integrações e formulários com PHP<br />
+      • Foco em performance, SEO e experiência do usuário
+    </td>
+  </tr>
+</table>
 
 ---
 

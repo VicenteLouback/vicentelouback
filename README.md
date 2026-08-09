@@ -1,7 +1,8 @@
 <div align="center">
 
 # 👋 Olá, eu sou o Vicente Louback
-<p align="left">
+
+<p align="center">
 Desenvolvedor apaixonado por tecnologia e por criar soluções que fazem a diferença.**
 Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos como freelancer.
 </p>
@@ -51,7 +52,7 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
       <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square" />
       <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square" />
       <br /><br />
-
+      ⭐ 5 &nbsp;&nbsp; 
     </td>
     <td width="33%" valign="top">
       <h3>🌐 Portfólio Pessoal</h3>
@@ -61,7 +62,7 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square" />
       <br /><br />
-
+      ⭐ 12 &nbsp;&nbsp; 
     </td>
     <td width="33%" valign="top">
       <h3>✅ Lista de Tarefas</h3>
@@ -71,7 +72,7 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" />
       <img src="https://img.shields.io/badge/LocalStorage-2d333b?style=flat-square" />
       <br /><br />
-
+      ⭐ 3 &nbsp;&nbsp; 
     </td>
   </tr>
 </table>

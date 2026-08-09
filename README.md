@@ -14,8 +14,6 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
   <img src="https://img.shields.io/badge/📍%20Cuiabá%20--%20MT-2d333b?style=for-the-badge" />
 </p>
 
----
-
 ## Tecnologias & Ferramentas
 
 **Linguagens & Frameworks**
@@ -35,8 +33,6 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
 <p align="left">
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,github,git,docker,figma&theme=dark" />
 </p>
-
----
 
 ## Projetos em Destaque
 
@@ -70,8 +66,6 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
   </tr>
 </table>
 
----
-
 ## Experiência
 
 <table>
@@ -98,8 +92,6 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
     </td>
   </tr>
 </table>
-
----
 
 ## Meios de contato!
 

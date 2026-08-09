@@ -83,7 +83,7 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏛️ <a href="#">Tribunal de Justiça de Mato Grosso (TJMT)</a></h3>
+      <h3><a href="#">Tribunal de Justiça de Mato Grosso (TJMT)</a></h3>
       <b>Desenvolvedor de Software</b>
       <img src="https://img.shields.io/badge/Nov%202024%20--%20Presente-238636?style=flat-square" />
       <br /><br />
@@ -94,7 +94,7 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
       • Boas práticas, código limpo e versionamento com Git
     </td>
     <td width="50%" valign="top">
-      <h3>💻 Freelancer</h3>
+      <h3><a href="#">Freelancer</a></h3>
       <b>Desenvolvedor Web</b>
       <img src="https://img.shields.io/badge/2023%20--%20Presente-238636?style=flat-square" />
       <br /><br />

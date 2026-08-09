@@ -1,187 +1,146 @@
-# 👋 Olá, eu sou Vicente Louback
+<div align="center">
 
-### 💻 Desenvolvedor de Software | Freelancer | Estudante de Ciência da Computação
+# 👋 Olá, eu sou o Vicente Louback
 
-Sou desenvolvedor apaixonado por tecnologia e por criar soluções que resolvem
-problemas reais.
+**Desenvolvedor apaixonado por tecnologia e por criar soluções que fazem a diferença.**
+Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos como freelancer.
 
-Atualmente trabalho com desenvolvimento de sistemas no **Tribunal de Justiça
-de Mato Grosso (TJMT)** e também desenvolvo projetos como **freelancer**.
+</div>
 
----
-
-## 🚀 Sobre mim
-
-🎓 Estudante de Ciência da Computação  
-💼 Desenvolvedor no Tribunal de Justiça de Mato Grosso  
-💻 Desenvolvedor Full Stack  
-🚀 Freelancer para desenvolvimento de sites e sistemas  
-📚 Sempre estudando novas tecnologias e boas práticas  
-
-Atualmente meu foco profissional está principalmente em:
-
-- Desenvolvimento de APIs
-- Sistemas Web
-- Aplicações Full Stack
-- Desenvolvimento Front-end
-- Desenvolvimento Back-end
-- Banco de dados
-- Arquitetura e boas práticas de código
+<p align="center">
+  <img src="https://img.shields.io/badge/Desenvolvedor%20no-TJMT-1f6feb?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Freelancer-2d333b?style=for-the-badge&logo=upwork&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ciência%20da%20Computação-2d333b?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/📍%20Cuiabá%20--%20MT-2d333b?style=for-the-badge" />
+</p>
 
 ---
 
-# 🛠️ Tecnologias
+## 🛠️ Tecnologias & Ferramentas
 
-## 💻 Linguagens e Frameworks
+**Linguagens & Frameworks**
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Banco de Dados**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
 
----
+**Ferramentas & Outros**
 
-## 🗄️ Banco de Dados
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## 🔧 Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-# 💼 Experiência
-
-## 🏛️ Tribunal de Justiça de Mato Grosso — TJMT
-
-**Desenvolvedor de Software**
-
-Atuação no desenvolvimento e manutenção de sistemas utilizados pelo
-Tribunal de Justiça.
-
-### Principais tecnologias:
-
-- C#
-- .NET
-- ASP.NET Core
-- Angular
-- TypeScript
-- SQL Server
-- Git
-
-### Atividades:
-
-- Desenvolvimento de APIs
-- Desenvolvimento de aplicações Web
-- Implementação de novas funcionalidades
-- Correção e manutenção de sistemas
-- Integração entre Front-end e Back-end
-- Desenvolvimento de consultas SQL
-- Testes e manutenção de código
-- Aplicação de boas práticas de programação
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 ---
 
-# 🚀 Freelancer
+## 🚀 Projetos em Destaque
 
-Também desenvolvo projetos como **freelancer**, criando soluções para
-pequenas empresas, profissionais e empreendedores.
-
-### Serviços
-
-🌐 **Sites institucionais**
-
-💼 **Landing Pages**
-
-📱 **Sites responsivos**
-
-🛒 **Sites para pequenos negócios**
-
-📋 **Formulários e páginas de contato**
-
-⚙️ **Sistemas Web personalizados**
-
-🔧 **Manutenção e melhorias em sites existentes**
-
-### Tecnologias para projetos freelance
-
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- Angular
-- C#
-- ASP.NET Core
-- SQL Server
-
----
-
-# 📂 Projetos em Destaque
-
-### 🔹 Sistema de Gestão de Chamados
-
-Sistema desenvolvido para gerenciamento de chamados e solicitações.
-
-**Tecnologias:**
-
-`C#` `ASP.NET Core` `Angular` `SQL Server`
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>📁 Sistema de Gestão de Chamados <sub>🔒 Privado</sub></h3>
+      Sistema interno para registro, acompanhamento e gestão de chamados técnicos.
+      <br /><br />
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square" />
+      <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat-square" />
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square" />
+      <br /><br />
+      ⭐ 5 &nbsp;&nbsp; 🍴 Fork 2
+    </td>
+    <td width="33%" valign="top">
+      <h3>🌐 Portfólio Pessoal</h3>
+      Meu portfólio online com projetos, experiências e formas de contato.
+      <br /><br />
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square" />
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square" />
+      <br /><br />
+      ⭐ 12 &nbsp;&nbsp; 🍴 Fork 3
+    </td>
+    <td width="33%" valign="top">
+      <h3>✅ Lista de Tarefas</h3>
+      Aplicação simples de lista de tarefas com armazenamento local.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" />
+      <img src="https://img.shields.io/badge/LocalStorage-2d333b?style=flat-square" />
+      <br /><br />
+      ⭐ 3 &nbsp;&nbsp; 🍴 Fork 1
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🔹 Lista de Tarefas
+## 💼 Experiência
 
-Aplicação Web para gerenciamento de tarefas.
+**🏛️ [Tribunal de Justiça de Mato Grosso (TJMT)](#)**
+Desenvolvedor de Software `Nov 2024 - Presente`
+Desenvolvimento e manutenção de sistemas internos utilizando C#, .NET, Angular e SQL Server. Atuação em melhorias, novas funcionalidades e suporte técnico.
+- Desenvolvimento full-stack com .NET e Angular
+- Modelagem e consultas em SQL Server
+- Boas práticas, código limpo e versionamento com Git
 
-**Tecnologias:**
-
-`Angular` `TypeScript` `HTML` `CSS`
-
----
-
-### 🔹 Portfólio Freelancer
-
-Site desenvolvido para apresentação de serviços, projetos e informações
-profissionais.
-
-**Tecnologias:**
-
-`HTML` `CSS` `JavaScript`
+**💻 Freelancer**
+Desenvolvedor Web `2023 - Presente`
+Desenvolvimento de sites institucionais, landing pages e sistemas web personalizados para pequenos e médios negócios.
+- Sites responsivos com HTML, CSS e JavaScript
+- Integrações e formulários com PHP
+- Foco em performance, SEO e experiência do usuário
 
 ---
 
-### 🔹 Outros projetos
+## 📊 Estatísticas do GitHub
 
-Confira meus repositórios para acompanhar meus estudos, projetos pessoais
-e experimentos com novas tecnologias.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vicenteslouback&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicenteslouback&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vicenteslouback&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vicenteslouback&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
-# 📚 Atualmente estudando
+## 📬 Vamos nos conectar!
 
-```text
-C#
-.NET
-ASP.NET Core
-Entity Framework Core
-Angular
-TypeScript
-SQL Server
-Docker
-Rancher
-SOLID
-Clean Code
-Design Patterns
-Arquitetura em Camadas
+Estou sempre aberto a novas oportunidades, projetos e colaborações.
+
+<p align="left">
+  <a href="https://linkedin.com/in/vicenteslouback" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/vicenteslouback" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:vicente.louback@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5565000000000" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>

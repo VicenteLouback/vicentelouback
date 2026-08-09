@@ -1,78 +1,187 @@
-<!-- Título de boas-vindas -->
-<h1 align="center">👋 Olá, meu nome é Vicente Louback</h1>
+# 👋 Olá, eu sou Vicente Louback
 
-🎓 Faço **Faculdade de Ciência da Computação** (6º semestre)  
-💼 Estagiário no **Tribunal de Justiça**, na área de Desenvolvimento de Sistemas e Aplicações  
-💻 Tecnologias: **Angular**, **C#**, **SQL**, **.NET**  
-🧠 Interesses: **Engenharia de Software**  
-📚 Estudando: **SOLID**, **Arquitetura em Camadas**, **Design Patterns**, **Clean Code**
+### 💻 Desenvolvedor de Software | Freelancer | Estudante de Ciência da Computação
 
----
+Sou desenvolvedor apaixonado por tecnologia e por criar soluções que resolvem
+problemas reais.
 
-## ⚙️ Habilidades
-
-### 🧩 Linguagens & Frameworks
-<p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" title="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" title="C#"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" title="Angular"/>
-</p>
-
-### 🗄️ Bancos de Dados
-<p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" title="PostgreSQL"/>
-</p>
-
-### 🛠️ Ferramentas e Metodologias
-<p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" title="Git"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" title="Azure DevOps"/>
-</p>
+Atualmente trabalho com desenvolvimento de sistemas no **Tribunal de Justiça
+de Mato Grosso (TJMT)** e também desenvolvo projetos como **freelancer**.
 
 ---
 
-## 🌐 Redes Sociais
+## 🚀 Sobre mim
 
-<p>
-  <a href="https://github.com/VicenteLouback" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" title="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/vicentelouback" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" width="32" title="LinkedIn"/>
-  </a>
-  <a href="https://discord.com/users/SEU_ID_NUMERICO" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" width="32" title="Discord"/>
-  </a>
-</p>
+🎓 Estudante de Ciência da Computação  
+💼 Desenvolvedor no Tribunal de Justiça de Mato Grosso  
+💻 Desenvolvedor Full Stack  
+🚀 Freelancer para desenvolvimento de sites e sistemas  
+📚 Sempre estudando novas tecnologias e boas práticas  
 
----
+Atualmente meu foco profissional está principalmente em:
 
-## 🏅 Emblemas e Estatísticas
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/VicenteLouback">
-        <img src="https://github-readme-stats.vercel.app/api?username=VicenteLouback&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/VicenteLouback">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicenteLouback&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+- Desenvolvimento de APIs
+- Sistemas Web
+- Aplicações Full Stack
+- Desenvolvimento Front-end
+- Desenvolvimento Back-end
+- Banco de dados
+- Arquitetura e boas práticas de código
 
 ---
 
-## 📂 Repositórios em Destaque
+# 🛠️ Tecnologias
 
-- [🔗 **Projeto Front-end - Lista de Tarefas**](https://github.com/VicenteLouback/lista-de-tarefas-front-end.git): Aplicação Angular com boas práticas e layout moderno.
-- [🔗 **Projeto Back-end - Lista de Tarefas**](https://github.com/VicenteLouback/nome-do-repositorio-back): Em breve.
+## 💻 Linguagens e Frameworks
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-📫 Entre em contato comigo: **vicentelouback@gmail.com**
+## 🗄️ Banco de Dados
 
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 🔧 Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+# 💼 Experiência
+
+## 🏛️ Tribunal de Justiça de Mato Grosso — TJMT
+
+**Desenvolvedor de Software**
+
+Atuação no desenvolvimento e manutenção de sistemas utilizados pelo
+Tribunal de Justiça.
+
+### Principais tecnologias:
+
+- C#
+- .NET
+- ASP.NET Core
+- Angular
+- TypeScript
+- SQL Server
+- Git
+
+### Atividades:
+
+- Desenvolvimento de APIs
+- Desenvolvimento de aplicações Web
+- Implementação de novas funcionalidades
+- Correção e manutenção de sistemas
+- Integração entre Front-end e Back-end
+- Desenvolvimento de consultas SQL
+- Testes e manutenção de código
+- Aplicação de boas práticas de programação
+
+---
+
+# 🚀 Freelancer
+
+Também desenvolvo projetos como **freelancer**, criando soluções para
+pequenas empresas, profissionais e empreendedores.
+
+### Serviços
+
+🌐 **Sites institucionais**
+
+💼 **Landing Pages**
+
+📱 **Sites responsivos**
+
+🛒 **Sites para pequenos negócios**
+
+📋 **Formulários e páginas de contato**
+
+⚙️ **Sistemas Web personalizados**
+
+🔧 **Manutenção e melhorias em sites existentes**
+
+### Tecnologias para projetos freelance
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Angular
+- C#
+- ASP.NET Core
+- SQL Server
+
+---
+
+# 📂 Projetos em Destaque
+
+### 🔹 Sistema de Gestão de Chamados
+
+Sistema desenvolvido para gerenciamento de chamados e solicitações.
+
+**Tecnologias:**
+
+`C#` `ASP.NET Core` `Angular` `SQL Server`
+
+---
+
+### 🔹 Lista de Tarefas
+
+Aplicação Web para gerenciamento de tarefas.
+
+**Tecnologias:**
+
+`Angular` `TypeScript` `HTML` `CSS`
+
+---
+
+### 🔹 Portfólio Freelancer
+
+Site desenvolvido para apresentação de serviços, projetos e informações
+profissionais.
+
+**Tecnologias:**
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+### 🔹 Outros projetos
+
+Confira meus repositórios para acompanhar meus estudos, projetos pessoais
+e experimentos com novas tecnologias.
+
+---
+
+# 📚 Atualmente estudando
+
+```text
+C#
+.NET
+ASP.NET Core
+Entity Framework Core
+Angular
+TypeScript
+SQL Server
+Docker
+Rancher
+SOLID
+Clean Code
+Design Patterns
+Arquitetura em Camadas

@@ -112,16 +112,16 @@ Desenvolvimento de sites institucionais, landing pages e sistemas web personaliz
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vicenteslouback&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicenteslouback&layout=compact&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VicenteLouback&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicenteLouback&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vicenteslouback&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VicenteLouback&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vicenteslouback&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VicenteLouback&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -131,13 +131,13 @@ Desenvolvimento de sites institucionais, landing pages e sistemas web personaliz
 Estou sempre aberto a novas oportunidades, projetos e colaborações.
 
 <p align="left">
-  <a href="https://linkedin.com/in/vicenteslouback" target="_blank">
+  <a href="https://linkedin.com/in/VicenteLouback" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/vicenteslouback" target="_blank">
+  <a href="https://github.com/VicenteLouback" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:vicente.louback@gmail.com">
+  <a href="mailto:vicentlouback@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wa.me/5565000000000" target="_blank">

@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou o Vicente Louback
 <p align="left">
-**Desenvolvedor apaixonado por tecnologia e por criar soluções que fazem a diferença.**
+Desenvolvedor apaixonado por tecnologia e por criar soluções que fazem a diferença.**
 Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos como freelancer.
 </p>
 </div>

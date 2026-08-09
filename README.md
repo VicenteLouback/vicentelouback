@@ -7,7 +7,7 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
 </p>
 </div>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Desenvolvedor%20no-TJMT-1f6feb?style=for-the-badge&logo=googlescholar&logoColor=white" />
   <img src="https://img.shields.io/badge/Freelancer-2d333b?style=for-the-badge&logo=upwork&logoColor=white" />
   <img src="https://img.shields.io/badge/Ciência%20da%20Computação-2d333b?style=for-the-badge&logo=googleclassroom&logoColor=white" />

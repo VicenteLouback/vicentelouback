@@ -50,8 +50,6 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
       <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat-square" />
       <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square" />
       <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square" />
-      <br /><br />
-      ⭐ 5 &nbsp;&nbsp; 
     </td>
     <td width="33%" valign="top">
       <h3>🌐 Portfólio Pessoal</h3>
@@ -60,8 +58,6 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square" />
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square" />
-      <br /><br />
-      ⭐ 12 &nbsp;&nbsp; 
     </td>
     <td width="33%" valign="top">
       <h3>✅ Lista de Tarefas</h3>
@@ -70,8 +66,6 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
       <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" />
       <img src="https://img.shields.io/badge/LocalStorage-2d333b?style=flat-square" />
-      <br /><br />
-      ⭐ 3 &nbsp;&nbsp; 
     </td>
   </tr>
 </table>
@@ -85,7 +79,6 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
     <td width="50%" valign="top">
       <h3><a href="#">Tribunal de Justiça de Mato Grosso (TJMT)</a></h3>
       <b>Desenvolvedor de Software</b>
-      <img src="https://img.shields.io/badge/Nov%202024%20--%20Presente-238636?style=flat-square" />
       <br /><br />
       Desenvolvimento e manutenção de sistemas internos utilizando C#, .NET, Angular e SQL Server. Atuação em melhorias, novas funcionalidades e suporte técnico.
       <br /><br />
@@ -96,7 +89,6 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
     <td width="50%" valign="top">
       <h3><a href="#">Freelancer</a></h3>
       <b>Desenvolvedor Web</b>
-      <img src="https://img.shields.io/badge/2023%20--%20Presente-238636?style=flat-square" />
       <br /><br />
       Desenvolvimento de sites institucionais, landing pages e sistemas web personalizados para pequenos e médios negócios.
       <br /><br />

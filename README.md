@@ -13,7 +13,7 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
   <img src="https://img.shields.io/badge/Ciência%20da%20Computação-2d333b?style=for-the-badge&logo=googleclassroom&logoColor=white" />
   <img src="https://img.shields.io/badge/📍%20Cuiabá%20--%20MT-2d333b?style=for-the-badge" />
 </p>
-
+<br>
 ## Tecnologias & Ferramentas
 
 **Linguagens & Frameworks**
@@ -21,21 +21,24 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css&theme=dark" />
 </p>
+<br>
 
+<br>
 **Banco de Dados**
 
 <p align="left">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
+<br>
 
 **Ferramentas & Outros**
-
+<br>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,github,git,docker,figma&theme=dark" />
 </p>
 
+<br>
 ## Projetos em Destaque
-
 <table>
   <tr>
     <td width="33%" valign="top">
@@ -66,6 +69,7 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
   </tr>
 </table>
 
+<br>
 ## Experiência
 
 <table>
@@ -92,7 +96,7 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
     </td>
   </tr>
 </table>
-
+<br>
 ## Meios de contato!
 
 Estou sempre aberto a novas oportunidades, projetos e colaborações.

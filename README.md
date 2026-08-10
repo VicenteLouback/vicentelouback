@@ -1,9 +1,9 @@
 <div align="center">
 
 <h1 align="left">
-👋 Olá, eu sou o Vicente Louback
+ Olá, eu sou o Vicente Louback
 </h1>
-<p align="left"> Desenvolvedor apaixonado por tecnologia e por criar soluções que fazem a diferença.** Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos como freelancer. </p> </div> <p align="left"> <img src="https://img.shields.io/badge/🏢_Desenvolvedor_no-TJMT-21262d?style=flat-square" alt="Desenvolvedor no TJMT" /> <img src="https://img.shields.io/badge/💻_Freelancer-21262d?style=flat-square" alt="Freelancer" /> <img src="https://img.shields.io/badge/🎓_Ciência_da_Computação-21262d?style=flat-square" alt="Ciência da Computação" /> <img src="https://img.shields.io/badge/📍_Cuiabá--MT-21262d?style=flat-square" alt="Cuiabá - MT" /> </p>
+<p align="left"> Desenvolvedor apaixonado por tecnologia e por criar soluções que fazem a diferença. Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos como freelancer. </p> </div> <p align="left"> <img src="https://img.shields.io/badge/🏢_Desenvolvedor_no-TJMT-21262d?style=flat-square" alt="Desenvolvedor no TJMT" /> <img src="https://img.shields.io/badge/💻_Freelancer-21262d?style=flat-square" alt="Freelancer" /> <img src="https://img.shields.io/badge/🎓_Ciência_da_Computação-21262d?style=flat-square" alt="Ciência da Computação" /> <img src="https://img.shields.io/badge/📍_Cuiabá--MT-21262d?style=flat-square" alt="Cuiabá - MT" /> </p>
 </div>
 
 ---
@@ -62,7 +62,7 @@
       Desenvolvimento de sites institucionais, landing pages e sistemas web personalizados para pequenos e médios negócios.
       <br /><br />
       • Sites responsivos com HTML, CSS e JavaScript<br />
-      • Integrações e formulários com PHP<br />
+      • Integrações e formulários com C#<br />
       • Foco em performance, SEO e experiência do usuário
     </td>
   </tr>

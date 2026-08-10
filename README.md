@@ -1,22 +1,14 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Vicente Louback
-<p align="left">
-Desenvolvedor apaixonado por tecnologia e por criar soluções que fazem a diferença.
-Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos como freelancer.
-</p>
+<h1 align="left">
+👋 Olá, eu sou o Vicente Louback
+</h1>
+<p align="left"> Desenvolvedor apaixonado por tecnologia e por criar soluções que fazem a diferença.** Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos como freelancer. </p> </div> <p align="left"> <img src="https://img.shields.io/badge/🏢_Desenvolvedor_no-TJMT-21262d?style=flat-square" alt="Desenvolvedor no TJMT" /> <img src="https://img.shields.io/badge/💻_Freelancer-21262d?style=flat-square" alt="Freelancer" /> <img src="https://img.shields.io/badge/🎓_Ciência_da_Computação-21262d?style=flat-square" alt="Ciência da Computação" /> <img src="https://img.shields.io/badge/📍_Cuiabá--MT-21262d?style=flat-square" alt="Cuiabá - MT" /> </p>
 </div>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Desenvolvedor%20no-TJMT-1f6feb?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Freelancer-2d333b?style=for-the-badge&logo=upwork&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ciência%20da%20Computação-2d333b?style=for-the-badge&logo=googleclassroom&logoColor=white" />
-  <img src="https://img.shields.io/badge/📍%20Cuiabá%20--%20MT-2d333b?style=for-the-badge" />
-</p>
 
 ---
 
-##Tecnologias & Ferramentas
+**Tecnologias & Ferramentas**
 
 **Linguagens & Frameworks**
 
@@ -27,7 +19,13 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
 **Banco de Dados**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+    width="45"
+    alt="SQL Server"
+  />
+  
 </p>
 
 **Ferramentas & Outros**
@@ -70,10 +68,44 @@ Atuo no Tribunal de Justiça de Mato Grosso (TJMT) e também desenvolvo projetos
   </tr>
 </table>
 
----
+
 
 ## Meio de comunicação!
 
 Estou sempre aberto a novas oportunidades, projetos e colaborações.
 
-<p align="left"> <a href="https://linkedin.com/in/VicenteLouback" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&v=20260809a" /> </a> <a href="https://github.com/VicenteLouback" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&v=20260809a" /> </a> <a href="mailto:vicentlouback@gmail.com"> <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&v=20260809a" /> </a> <a href="https://wa.me/5565000000000" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&v=20260809a" /> </a> </p>
+<p align="left">
+
+  <a href="https://www.linkedin.com/in/VicenteLouback" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      width="45"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://github.com/VicenteLouback" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=github"
+      width="45"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vicentelouback@gmail.com" target="_blank">
+    <img 
+        src="https://skillicons.dev/icons?i=gmail"
+        width="45"
+        alt="E-mail"
+    />
+</a>
+
+  <a href="https://wa.me/556599331413" target="_blank">
+    <img
+        src="https://cdn.simpleicons.org/whatsapp/25D366"
+        width="45"
+        alt="WhatsApp"
+    />
+</a>
+
+</p>
